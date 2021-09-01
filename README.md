@@ -1,0 +1,2 @@
+# C-project--MBM_FUNZONE
+"MBM FUN ZONE" is basically a game zone which is completely written in C language where user can play 6 different fun games in the interface like Tic Tac Toe, Dice Roller Game, Mystery Numbers Game and it also consist some fun activities like Kaun Banega Bollywood Star and Fortune Trio. This project is made with the help of my team(Karishma sharma, khushi bansal, Aparna Jain) and it  is our DSC Studypods 2.0 project 
